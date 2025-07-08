@@ -1,18 +1,17 @@
-# 🥋👋 Hola, soy Pablo Troncoso
+# 👋 Hi, I'm Pablo Troncoso
 
-💻 **Full-Stack Developer** | 🎓 **Máster en Marketing**
+💻 **Full-Stack Developer** | 🎓 **Master's in Marketing**
 
 ---
 
-Soy un desarrollador full-stack con experiencia en la integración de tecnologías de desarrollo web y estrategias de marketing digital. Combino habilidades técnicas y conocimientos de marketing para crear aplicaciones robustas y escalables que mejoran la experiencia del usuario y fomentan el crecimiento digital.
+I’m a full-stack developer with experience integrating web development technologies and digital marketing strategies. I combine technical skills and marketing expertise to build robust, scalable applications that enhance user experience and drive digital growth.
 
-## 🚀 Sobre Mí
+## 🚀 About Me
+- **Specialization**: Node.js, JavaScript, PostgreSQL
+- **Interests**: Full-Stack development & digital optimization
+- **Goal**: Deliver value through efficient and innovative tech solutions
 
-- **Especialización**: Node.js, JavaScript, PostgreSQL
-- **Intereses**: Desarrollo Full-Stack y optimización digital
-- **Meta**: Innovar y aportar valor a través de soluciones tecnológicas eficientes
-
-## 🛠️ Habilidades Técnicas
+## 🛠️ Technical Skills
 
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,31 +26,18 @@ Soy un desarrollador full-stack con experiencia en la integración de tecnologí
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔧 Herramientas y Plataformas
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+### 🔧 Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-2C3E50?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
-## 📫 Contacto
-
+## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/pablotroncoso/)
-- [Sitio Web](https://www.pablotroncoso.cl)
+- [Personal Website](https://www.pablotroncoso.cl)
 
 ---
 
-Estamos en contacto!
+_“Let’s connect and build impactful solutions together!”_
